@@ -7,7 +7,7 @@
   "author": "Astro",
   "dependencies": {
     "node-expat": ">=1.4.1",
-    "ltx": ">= 0.2.0",
+    "ltx": ">= 0.3.0",
     "request": ">= 2.9.153",
     "browser-request": ">= 0.2.0",
     "faye-websocket": ">= 0.4.1",
